@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="textStyle">
+        <item name="android:fontFamily">@font/bangers</item>
+        <item name="android:padding">@dimen/text_padding</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="buttonStyle" parent="textStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:backgroundTint">#7342D6</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">True Citizen</string>
+    <string name="true_button_text">true</string>
+    <string name="false_button_text">false</string>
+    <string name="prev_button_text">prev</string>
+    <string name="next_button_text">next</string>
+    <string name="question_text_view">Question Here !</string>
+    <string name="image_discription">A Android Image</string>
+    <string name="question_1">are you good boy ?</string>
+    <string name="question_2">are you good girl ?</string>
+    <string name="question_3">are you an adult ?</string>
+    <string name="question_4">Do you lobe me ?</string>
+    <string name="question_5">i am smart !</string>
+    <string name="correct_answer">That\'s Correct !</string>
+    <string name="incorrect_answer">That\'s Incorrect !</string>
+    />
+</resources>
